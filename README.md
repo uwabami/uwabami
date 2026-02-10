@@ -1,7 +1,21 @@
 #### To your health, Cheers!! 🍻
-<a href="https://github.com/uwabami">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=uwabami&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/uwabami">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwabami&layout=compact&show_icons=true&theme=dracula" />
-</a>
+
+
+[![](https://raw.githubusercontent.com/uwabami/uwabami/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/uwabami/uwabami/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/uwabami/uwabami/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/uwabami/uwabami/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/uwabami/uwabami/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
